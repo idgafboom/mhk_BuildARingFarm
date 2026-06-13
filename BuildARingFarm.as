@@ -1,0 +1,15 @@
+﻿{
+  "version":"1",
+  "version_beta":"1",
+  "source":"",
+  "compiled":"https://github.com/idgafboom/mhk_BuildARingFarm/releases/download/BuildARingFarm/BuildARingFarm_exe.zip",
+  "compiled_beta":"https://github.com/idgafboom/mhk_BuildARingFarm/releases/download/BuildARingFarm-beta/BuildARingFarm_exe.zip",
+  "assets":"",
+  "webhook":"",
+  "changelog":"",
+  "passwords":[],
+  "deviceLimit":1,
+  "blocklist":[],
+  "devId":"97d5c0399c62354dca7624030478d2f2",
+  "betaList":[]
+}
