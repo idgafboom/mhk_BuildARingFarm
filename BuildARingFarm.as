@@ -1,5 +1,5 @@
 ﻿{
-  "version":"9",
+  "version":"10",
   "version_beta":"1",
   "source":"",
   "compiled":"https://github.com/idgafboom/mhk_BuildARingFarm/releases/download/BuildARingFarm/BuildARingFarm_exe.zip",
